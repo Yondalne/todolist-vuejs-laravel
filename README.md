@@ -1,4 +1,4 @@
 <p align="center">
-Todolist App usinge Laravel 9 and Vuejs 3
+Todolist App using Laravel 9 and Vuejs 3
 </p>
 
